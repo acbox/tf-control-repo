@@ -2,7 +2,7 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "packageRules": [
     {
-      "matchPackageNames": ["acbox/tf-module-null-resource"],
+      "matchPackageNames": ["github.com/acbox/tf-module-null-resource"],
       "allowedVersions": "~> v0.1"
     }
   ],
